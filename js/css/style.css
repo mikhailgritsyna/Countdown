@@ -1,0 +1,34 @@
+h2 {
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+.coming-soon {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.countdown {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.day {
+  font-size: 3rem;
+}
+
+.hour {
+  font-size: 3rem;
+}
+
+.minute {
+  font-size: 3rem;
+}
+
+.second {
+  font-size: 3rem;
+}
